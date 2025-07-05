@@ -1,6 +1,6 @@
 # 🚀 Ali Serhan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&width=435\&lines=Full-Stack+Web+Developer+%7C+Code+Craftsman)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer+%7CCode+Craftsman)](https://git.io/typing-svg)
 
 
 * 🌍  Based in Lebanon
