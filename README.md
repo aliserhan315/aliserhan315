@@ -69,9 +69,9 @@ I believe in writing clean code, following design patterns, and building user-fr
 <details>
   <summary><b>View Stats</b></summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=NinjaCoder8&show_icons=true&count_private=true&hide=issues&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliserhan315&show_icons=true&count_private=true&hide=issues&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NinjaCoder8&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aliserhan315&theme=radical&hide_border=true" />
 </details>
 
 ---
