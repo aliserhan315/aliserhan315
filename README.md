@@ -95,7 +95,7 @@ I believe in clean code, modern UI/UX design, and continuous learning through bu
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=aliserhan315&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliserhan315&theme=dark&hide_border=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliserhan315&theme=dark&hide_border=true" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliserhan315&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" />
 </details>
