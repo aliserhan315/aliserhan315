@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cc0202b6-05a0-4cd5-bc5c-38a17ba4b032" />
+
 # 🚀 Ali Serhan
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer+%7CCode+Craftsman)](https://git.io/typing-svg)
@@ -93,12 +95,26 @@ I believe in clean code, modern UI/UX design, and continuous learning through bu
 <details>
   <summary><b>Click to view</b></summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=aliserhan315&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
+
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aliserhan315&show_icons=true&count_private=true&hide=prs&theme=radical" 
+    alt="Ali Serhan's GitHub stats" 
+  />
+
+
   <br />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliserhan315" />
+  <img 
+    src="https://github-readme-streak-stats.demolab.com/?user=aliserhan315&theme=radical&hide_border=true" />
+
+
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliserhan315&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliserhan315&layout=compact&theme=radical&langs_count=10&hide_progress=true" 
+    alt="Top Languages" 
+  />
 </details>
+
 
 ---
 
