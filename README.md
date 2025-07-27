@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cc0202b6-05a0-4cd5-bc5c-38a17ba4b032" />
+
 
 # 🚀 Ali Serhan
 
