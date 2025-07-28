@@ -104,8 +104,7 @@ I believe in clean code, modern UI/UX design, and continuous learning through bu
 
 
   <br />
-  <img 
-    src="https://github-readme-streak-stats.demolab.com/?user=aliserhan315&theme=radical&hide_border=true" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aliserhan315&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
 
   <br />
