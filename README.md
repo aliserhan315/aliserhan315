@@ -92,8 +92,7 @@ I believe in clean code, modern UI/UX design, and continuous learning through bu
 
 ### 📊 GitHub Stats
 
-<details>
-  <summary><b>Click to view</b></summary>
+
   <br />
 
 
@@ -112,7 +111,7 @@ I believe in clean code, modern UI/UX design, and continuous learning through bu
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliserhan315&layout=compact&theme=radical&langs_count=10&hide_progress=true" 
     alt="Top Languages" 
   />
-</details>
+
 
 
 ---
